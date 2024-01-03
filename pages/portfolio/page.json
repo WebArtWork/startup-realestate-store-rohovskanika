@@ -1,0 +1,24 @@
+{
+	"name": "article",
+	"portfolio": {
+		"id": "/article",
+		"short": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do.",
+        "thumb": "https://body.webart.work/rohovskanika/img/woman.jpg",
+		"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do.",
+		"name": "Portfolio Name"
+	},
+	"groups": [
+		{
+			"categories": [
+				{
+					"name": "Category Name",
+					"tags": [
+						{
+							"name": "Tag Name"
+						}
+					]
+				}
+			]
+		}
+	]
+}

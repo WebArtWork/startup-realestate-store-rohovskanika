@@ -1,0 +1,37 @@
+{
+	"name": "services",
+	"services": [
+		{
+			"id": "/service",
+			"short": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do.",
+			"thumb": "/rohovskanika/img/neryxomka.jpg",
+			"name": "service"
+		},
+		{
+			"id": "/service",
+			"short": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do.",
+			"thumb": "/rohovskanika/img/neryxomka.jpg",
+			"name": "service"
+		},
+		{
+			"id": "/service",
+			"short": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do.",
+			"thumb": "/rohovskanika/img/neryxomka.jpg",
+			"name": "service"
+		}
+	],
+	"groups": [
+		{
+			"categories": [
+				{
+					"name": "Category Name",
+					"tags": [
+						{
+							"name": "Tag Name"
+						}
+					]
+				}
+			]
+		}
+	]
+}

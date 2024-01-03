@@ -1,0 +1,156 @@
+{
+	"title": "Welcome to waw Template",
+	"description": "description",
+	"keywords": "keywords",
+	"prefix": "/rohovskanika",
+	"picture": "picture",
+	"author": "author",
+	"moderators": [],
+	"scss": "scss/index.scss",
+	"variables": {
+		"intro_bg": "rohovskanika/img/neryxomka.jpg",
+		"primary_color": "white",
+		"your_name": " ",
+		"land_decor": "1",
+		"ceo_text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do.",
+		"logo_text": "Neryxomka",
+		"design_name": "Design: NIKA R.",
+		"contact_text": " Don't forget to subscribe to our newsletters and social networks",
+		"email_text": "ceo@webart.work",
+		"link_instagram": "",
+		"link_facebook": "",
+		"link_telegram": "",
+		"land_head_text": "neryxomka",
+		"land_head_text2": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do.Lorem ipsum dolor sit amet"
+	},
+	"footer": {
+		"portfolios": [
+			{
+				"id": "/portfolio",
+				"thumb": "https://agro.webart.work/template/img/welcome.png",
+				"name": "portfolio"
+			},
+			{
+				"id": "/portfolio",
+				"thumb": "https://agro.webart.work/template/img/welcome.png",
+				"name": "portfolio"
+			},
+			{
+				"id": "/portfolio",
+				"thumb": "https://agro.webart.work/template/img/welcome.png",
+				"name": "portfolio"
+			},
+			{
+				"id": "/portfolio",
+				"thumb": "https://agro.webart.work/template/img/welcome.png",
+				"name": "portfolio"
+			}
+		],
+		"products": [
+			{
+				"id": "/product",
+				"price": 1200,
+				"short": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do.",
+				"thumb": "https://agro.webart.work/template/img/welcome.png",
+				"name": "product"
+			},
+			{
+				"id": "/product",
+				"price": 1200,
+				"short": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do.",
+				"thumb": "https://agro.webart.work/template/img/welcome.png",
+				"name": "product"
+			},
+			{
+				"id": "/product",
+				"price": 1200,
+				"short": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do.",
+				"thumb": "https://agro.webart.work/template/img/welcome.png",
+				"name": "product"
+			}
+		],
+		"services": [
+			{
+				"id": "/service",
+				"price": 1200,
+				"short": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do.",
+				"thumb": "https://agro.webart.work/template/img/welcome.png",
+				"name": "service"
+			},
+			{
+				"id": "/service",
+				"price": 1200,
+				"short": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do.",
+				"thumb": "https://agro.webart.work/template/img/welcome.png",
+				"name": "service"
+			},
+			{
+				"id": "/service",
+				"price": 1200,
+				"short": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do.",
+				"thumb": "https://agro.webart.work/template/img/welcome.png",
+				"name": "service"
+			}
+		],
+		"articles": [
+			{
+				"id": "/article",
+				"short": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do.",
+				"thumb": "https://agro.webart.work/template/img/welcome.png",
+				"name": "article"
+			},
+			{
+				"id": "/article",
+				"short": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do.",
+				"thumb": "https://agro.webart.work/template/img/welcome.png",
+				"name": "article"
+			},
+			{
+				"id": "/article",
+				"short": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do.",
+				"thumb": "https://agro.webart.work/template/img/welcome.png",
+				"name": "article"
+			}
+		]
+	},
+	"tags": [
+		{
+			"category": {
+				"group": "article"
+			},
+			"name": "Tag one"
+		},
+		{
+			"category": {
+				"group": "product"
+			},
+			"name": "Tag one"
+		},
+		{
+			"category": {
+				"group": "portfolio"
+			},
+			"name": "Tag one"
+		},
+		{
+			"category": {
+				"group": "service"
+			},
+			"name": "Tag one"
+		}
+	],
+	"groups": [
+		{
+			"categories": [
+				{
+					"name": "Category Name",
+					"tags": [
+						{
+							"name": "Tag Name"
+						}
+					]
+				}
+			]
+		}
+	]
+}

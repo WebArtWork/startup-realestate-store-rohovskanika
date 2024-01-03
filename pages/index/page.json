@@ -1,0 +1,106 @@
+{
+	"title": "Cool Title",
+	"store": {
+		"telegram": "https://t.me/wawceo"
+	},
+	"top_portfolios": [
+		{
+			"id": "/portfolio",
+			"thumb": "/rohovskanika/img/neryxomka.jpg",
+			"name": "portfolio"
+		},
+		{
+			"id": "/portfolio",
+			"thumb": "/rohovskanika/img/neryxomka.jpg",
+			"name": "portfolio"
+		},
+		{
+			"id": "/portfolio",
+			"thumb": "/rohovskanika/img/neryxomka.jpg",
+			"name": "portfolio"
+		}
+	],
+	"portfolios": [
+		{
+			"id": "/portfolio",
+			"thumb": "/rohovskanika/img/neryxomka.jpg",
+			"name": "portfolio"
+		},
+		{
+			"id": "/portfolio",
+			"thumb": "/rohovskanika/img/neryxomka.jpg",
+			"name": "portfolio"
+		},
+		{
+			"id": "/portfolio",
+			"thumb": "/rohovskanika/img/neryxomka.jpg",
+			"name": "portfolio"
+		}
+	],
+	"products": [
+		{
+			"id": "/product",
+			"price": 1200,
+			"short": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do.",
+			"thumb": "/rohovskanika/img/neryxomka.jpg",
+			"name": "product"
+		},
+		{
+			"id": "/product",
+			"price": 1200,
+			"short": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do.",
+			"thumb": "/rohovskanika/img/neryxomka.jpg",
+			"name": "product"
+		},
+		{
+			"id": "/product",
+			"price": 1200,
+			"short": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do.",
+			"thumb": "/rohovskanika/img/neryxomka.jpg",
+			"name": "product"
+		}
+	],
+	"services": [
+		{
+			"id": "/service",
+			"price": 1200,
+			"short": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do.",
+			"thumb": "/rohovskanika/img/neryxomka.jpg",
+			"name": "service"
+		},
+		{
+			"id": "/service",
+			"price": 1200,
+			"short": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do.",
+			"thumb": "/rohovskanika/img/neryxomka.jpg",
+			"name": "service"
+		},
+		{
+			"id": "/service",
+			"price": 1200,
+			"short": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do.",
+			"thumb": "/rohovskanika/img/neryxomka.jpg",
+			"name": "service"
+		}
+	],
+	"articles": [
+		{
+			"id": "/article",
+			"short": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do.",
+			"thumb": "/rohovskanika/img/neryxomka.jpg",
+			"name": "article"
+		},
+		{
+			"id": "/article",
+			"short": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do.",
+			"thumb": "/rohovskanika/img/neryxomka.jpg",
+			"name": "article"
+		},
+		{
+			"id": "/article",
+			"short": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do.",
+			"thumb": "/rohovskanika/img/neryxomka.jpg",
+			"name": "article"
+		}
+	]
+}

@@ -1,0 +1,24 @@
+{
+	"name": "article",
+	"article": {
+		"id": "/article",
+		"short": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do.",
+        "thumb": "/rohovskanika/img/neryxomka.jpg",
+		"name": "Article Name",
+		"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do."
+	},
+	"groups": [
+		{
+			"categories": [
+				{
+					"name": "Category Name",
+					"tags": [
+						{
+							"name": "Tag Name"
+						}
+					]
+				}
+			]
+		}
+	]
+}

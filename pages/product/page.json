@@ -1,0 +1,26 @@
+{
+	"name": "product",
+	"product": {
+		"id": "/product",
+		"price": 1200,
+		"short": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do.",
+		"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do.",
+        "thumb": "/rohovskanika/img/neryxomka.jpg",
+        "thumbs": ["/rohovskanika/img/neryxomka.jpg"],
+		"name": "product"
+	},
+	"groups": [
+		{
+			"categories": [
+				{
+					"name": "Category Name",
+					"tags": [
+						{
+							"name": "Tag Name"
+						}
+					]
+				}
+			]
+		}
+	]
+}
